@@ -1,6 +1,11 @@
 #	NotePad app using tkinter and Packing it into a executable file for mac and windows
 
+   .app file 
+   https://github.com/chiranjeevbitm/notepad-GUI-With-Executable-/blob/master/dist/notepad.app/Contents/MacOS/notepad
+
 Description
+
+
 	notepad.py is a GUI software of simple notepad software
 	I have used the tkinter library for the GUI development
 	About tkinter

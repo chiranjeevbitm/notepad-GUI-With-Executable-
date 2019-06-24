@@ -64,15 +64,15 @@
 	<key>PyRuntimeLocations</key>
 	<array>
 		<string>@executable_path/../Frameworks/Python.framework/Versions/3.7/Python</string>
-		<string>/Library/Frameworks/Python.framework/Versions/3.7/Python</string>
+		<string>/usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/Python</string>
 	</array>
 	<key>PythonInfoDict</key>
 	<dict>
 		<key>PythonExecutable</key>
-		<string>/Library/Frameworks/Python.framework/Versions/3.7/bin/python3</string>
+		<string>/usr/local/opt/python/bin/python3.7</string>
 		<key>PythonLongVersion</key>
-		<string>3.7.0 (v3.7.0:1bf9cc5093, Jun 26 2018, 23:26:24) 
-[Clang 6.0 (clang-600.0.57)]</string>
+		<string>3.7.3 (default, Mar 27 2019, 09:23:15) 
+[Clang 10.0.1 (clang-1001.0.46.3)]</string>
 		<key>PythonShortVersion</key>
 		<string>3.7</string>
 		<key>py2app</key>

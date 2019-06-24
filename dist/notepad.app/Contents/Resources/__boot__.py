@@ -74,7 +74,7 @@ def _path_inject(paths):
     sys.path[:0] = paths
 
 
-_path_inject(['/Users/chiranjeev/Desktop/notepad'])
+_path_inject(['/Users/chiranjeev/Desktop/Projects/notepad'])
 
 
 import re
@@ -126,7 +126,7 @@ def _run():
     exec(compile(source, script, 'exec'), globals(), globals())
 
 
-DEFAULT_SCRIPT='/Users/chiranjeev/Desktop/notepad/notepad.py'
+DEFAULT_SCRIPT='/Users/chiranjeev/Desktop/Projects/notepad/notepad.py'
 SCRIPT_MAP={}
 try:
     _run()
